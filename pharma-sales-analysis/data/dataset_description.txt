@@ -1,0 +1,28 @@
+Dataset: Global Pharmaceutical Sales (2020–2025)
+
+Source: Kaggle
+
+Description:
+This dataset contains daily pharmaceutical sales data across multiple regions and countries, including product-level, geographic, and inventory-related information.
+
+Key Fields:
+- date, year, month, day: Time-related fields
+- region, country: Geographic information
+- category: Product category (e.g., Antibiotic, Antipyretic)
+- medicine: Product name
+- age_group: Customer segment
+- units_sold: Number of units sold
+- unit_price: Price per unit
+- revenue: Total sales value (units_sold × unit_price)
+- stock_level: Inventory level
+- expiry_days_remaining: Remaining shelf life
+- covid_flag: Indicator of COVID period (1 = COVID, 0 = non-COVID)
+
+Data Processing:
+- Validated data types and ensured no missing values
+- Created revenue as the primary KPI
+- Generated time-based features (month name, year-month key)
+- Prepared data for SQL analysis and Power BI visualization
+
+Note:
+The full dataset is not included due to size limitations.

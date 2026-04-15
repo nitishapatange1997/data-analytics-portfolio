@@ -1,0 +1,21 @@
+Dataset: Cyclistic Bike Share (2025)
+
+Source: Divvy Public Dataset
+
+Description:
+This dataset contains 12 months of bike-share trip data (January 2025 to December 2025).
+
+Key Fields:
+- ride_id: Unique trip identifier
+- started_at, ended_at: Trip timestamps
+- member_casual: User type (member or casual)
+- start_lat, start_lng: Start location coordinates
+- end_lat, end_lng: End location coordinates
+
+Data Processing:
+- Combined monthly datasets into a single table
+- Created new features such as ride length and day of week
+- Cleaned data by removing invalid durations, null values, and incorrect coordinates
+
+Note:
+The full dataset is not included due to size limitations.

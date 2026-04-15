@@ -28,7 +28,7 @@ What factors drive pharmaceutical sales performance across regions, products, an
 
 ## 📄 Full Case Study
 
-[View Detailed Analysis](./docs/Case study pharma documentation.docx)
+[View Detailed Analysis](docs/case-study-pharma.docx)
 
 ---
 

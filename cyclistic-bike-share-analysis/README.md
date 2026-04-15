@@ -28,7 +28,7 @@ How do casual riders and annual members use Cyclistic bikes differently?
 
 ## 📄 Full Case Study
 
-[View Detailed Analysis](./docs/Case study cyclist documentation.docx)
+[View Detailed Analysis](docs/case-study-cyclistic.docx)
 
 ---
 
